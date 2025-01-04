@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Gupta! 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=netlify)](https://ayush-portfolio.netlify.app/)  [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-orange?style=flat-square&logo=leetcode)](https://leetcode.com/AyushGupta)  [![GeeksforGeeks](https://img.shields.io/badge/GFG-Visit-blue?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/AyushGupta)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=netlify)]( https://ayush-g-portfolio.netlify.app/)  [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Ayu399/)  [![GeeksforGeeks](https://img.shields.io/badge/GFG-Visit-blue?style=flat-square&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/bt21eee019)  
 
 ---
 
@@ -50,5 +50,5 @@ I'm a **Full-Stack Developer**, **Programmer**, and  an undergraduate final year
 ## 📬 Let's Connect
 
 - **Email:** [itsayushempire@gmail.com](itsayushempire@gmail.com)
-- **LinkedIn:** [Ayush's LinkedIn](https://linkedin.com/in/ayush-gupta)
+- **LinkedIn:** [Ayush's LinkedIn](https://www.linkedin.com/in/ayush-gupta-01a785228)
 
