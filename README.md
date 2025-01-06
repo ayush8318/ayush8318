@@ -30,7 +30,7 @@ I'm a **Full-Stack Developer**, **Programmer**, and  an undergraduate final year
 ### **Other Skills**
 - Data Structures and Algorithms
 - API Development and Testing
-- work with Cross function teams
+- work with Cross functional teams
 - Standardization Processes (IS 398)
 - Industrial Management Knowledge
 
